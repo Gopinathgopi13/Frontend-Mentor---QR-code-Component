@@ -59,7 +59,7 @@ img{
 }
 
 
-@media only screen and (min-width: 375px){
+@media only screen and (max-width: 900px){
     .m-main{
         width: 85%;
     }
